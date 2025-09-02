@@ -64,4 +64,3 @@
 
 ---
 
-✨ *"At the intersection of Biology, AI, and Curiosity lies Innovation."* ✨  
