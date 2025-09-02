@@ -7,12 +7,22 @@
 
 ---
 
+### 🧬 Neural Networks | Single-Cell Omics | Drug Discovery  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Yb3d3lApVyhCM/giphy.gif" width="250" alt="Neural Networks"/>
+  <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="250" alt="Single Cell Omics"/>
+  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="250" alt="Drug Molecules"/>
+</p>
+
+---
+
 ### 🔬 About Me  
-- 🧬 Passionate about **Bioinformatics** – analyzing genomic data, variant interpretation, and clinical applications.  
-- 🤖 Skilled in **Machine Learning & Deep Learning** for healthcare and beyond.  
-- 🌍 Enthusiastic about **Generative AI** – exploring how LLMs & diffusion models transform medicine.  
-- 🐧 Strong foundation in **Linux, Python, R, and SQL** with focus on data pipelines & reproducibility.  
-- 🎯 Always learning, building, and sharing knowledge.  
+- 🧬 Passionate about **Bioinformatics** – genomic data analysis, variant interpretation, and clinical applications.  
+- 🤖 Skilled in **Machine Learning & Deep Learning** for healthcare and biomedical research.  
+- 🌍 Exploring **Generative AI** – fine-tuning LLMs for biomedical and drug discovery tasks.  
+- 🐧 Experienced with **Linux, Python, and R** – building reproducible pipelines.  
+- 🎯 Love working at the intersection of **biology + AI + medicine**.  
 
 ---
 
@@ -47,20 +57,21 @@
 
 ### 🌟 Featured Interests  
 
-- 🧬 **Bioinformatics Pipelines** – Variant calling, gene expression analysis, multi-omics integration.  
-- 🩺 **AI for Medicine** – Deep learning for imaging (MRI, histopathology, genomics).  
-- 🤖 **Generative AI** – Fine-tuning LLMs for biomedical applications.  
-- ⚙️ **MLOps** – Reproducible pipelines with Docker, MLflow, Airflow.  
+- 🧬 **Bioinformatics Pipelines** – Variant calling, single-cell RNA-seq, multi-omics integration.  
+- 🩺 **AI for Medicine** – Deep learning for MRI, pathology slides, and genomics.  
+- 💊 **Drug Discovery** – ML-driven drug repurposing & molecular structure prediction.  
+- 🤖 **Generative AI** – LLMs & diffusion models in biomedical research.  
+- ⚙️ **MLOps** – MLflow, Docker, Airflow, CI/CD for reproducible research.  
 
 ---
 
 ### 🤝 Connect With Me  
 
 <p align="left">
-<a href="https://www.linkedin.com/in/tharun" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/tharun-kota" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" /></a>
 <a href="mailto:thisistharunkota@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" width="40" /></a>
 </p>
 
 ---
 
-✨ *"Science + AI + Curiosity = Innovation"* ✨  
+✨ *"At the intersection of Biology, AI, and Curiosity lies Innovation."* ✨  
