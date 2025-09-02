@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/Yb3d3lApVyhCM/giphy.gif" width="250" alt="Neural Networks"/>
   <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="250" alt="Single Cell Omics"/>
-  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="250" alt="Drug Molecules"/>
+  <img src="[https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif](https://images.unsplash.com/photo-1645839057098-5ea8761a6b09?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fG5ldXJhbCUyMG5ldHdvcmt8ZW58MHx8MHx8fDA%3D)" width="250" alt="Drug Molecules"/>
 </p>
 
 ---
